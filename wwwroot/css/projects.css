@@ -1,0 +1,9 @@
+.projects{
+    border: solid black 2px;
+    overflow: auto;
+    height: 400px;
+}
+
+.project_img{
+    width: 100px;
+}
